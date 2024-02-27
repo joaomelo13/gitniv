@@ -37,3 +37,6 @@ while True:
     jogar_novamente = input("Deseja jogar novamente? (s/n): ")
     if jogar_novamente.lower() != "s":
         break
+
+
+print("abracadabra \n simsalabim eu quero que você vire o aladim")
